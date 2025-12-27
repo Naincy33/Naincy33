@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+👋+I’m+Naincy;B.Tech+CSE+Student;Learning+DSA+and+Web+Development;Turning+Ideas+Into+Code+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=650&lines=Hi+👋+I’m+Naincy;B.Tech+CSE+Student;Learning+DSA+Data Science+Web+Development;Turning+Ideas+Into+Code+🚀">
 </p>
 
 ---
