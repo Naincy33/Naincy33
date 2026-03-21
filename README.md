@@ -56,18 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|------------|------|
-| 🔗 Your Project 1 | Short description | React, Node |
-| 🔗 Your Project 2 | Short description | Python |
-| 🔗 Your Project 3 | Short description | Next.js |
-
-👉 *Replace with your actual projects (very important!)*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
