@@ -50,8 +50,11 @@
 ### 📊 Data Science
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-Python-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-completed-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-style=for-the-badge" />
+  
 </p>
 
 ---
