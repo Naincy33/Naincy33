@@ -10,8 +10,7 @@
 
 - 🎓 B.Tech CSE Student  
 - 💻 Passionate about coding & problem solving  
-- 📚 Learning **DSA, Web Dev & Data Science**  
-- 📊 Completed **NumPy & Pandas**  
+- 📚 Learning **DSA, Web Dev & Data Science**   
 - 🌱 Exploring Open Source  
 - 🚀 Consistently building projects  
 
