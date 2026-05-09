@@ -83,8 +83,8 @@ B.Tech CSE Student • DSA • Web Development • Data Science • Machine Lear
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naincy33&show_icons=true&theme=radical&border_radius=10" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naincy33&theme=radical&border_radius=10" height="180em"/>
+
+  <img src="https://streak-stats.demolab.com?user=Naincy33&theme=radical&border_radius=10" height="180em"/>
 </p>
 
 ---
@@ -126,5 +126,5 @@ B.Tech CSE Student • DSA • Web Development • Data Science • Machine Lear
 ---
 
 <p align="center">
-✨ <b>“Learning, Building & Growing Every Day 🚀”</b>
+✨ <b>Learning, Building & Growing Every Day 🚀</b>
 </p>
