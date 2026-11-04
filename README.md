@@ -17,7 +17,7 @@
 
 ## Hey, I'm Naincy 👋
 
-**B.Tech Computer Science & Engineering student at B.M.S. College of Engineering, Bengaluru (2024–2028)**
+**B.Tech Computer Science & Engineering student at B.M.S. College of Engineering, Bengaluru (2024–2028) · CGPA: 9.24/10**
 
 I enjoy building practical software across full-stack development and machine learning. I like taking ideas from problem statement to working application — designing APIs, working with data, experimenting with models and building interfaces that make the result useful.
 
