@@ -1,372 +1,183 @@
-<!-- ========================= HEADER ========================= -->
-<h1 align="center">Hi 👋, I'm Naincy</h1>
+<!--
+  NAINCY33 | GitHub Profile
+  Keep this README project-led, concise, and evidence-based.
+-->
 
-<h3 align="center">
-B.Tech CSE Student • Data Science • Machine Learning Enthusiast • Full Stack Developer
-</h3>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Naincy — Software Engineering, Machine Learning and AI" />
+  <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=900&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Full+Stack+Developer;Deep+Learning+Explorer;DSA+Problem+Solver;AI+%26+LLM+Explorer;Open+Source+Learner;Always+Learning+🚀" />
-</p>
+  <a href="RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-View%20PDF-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/naincy-5313551b3/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Naincy33/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:iamnaincy33@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-<p align="center">
+---
+
+## Hey, I'm Naincy 👋
+
+**Computer Science undergraduate at B.M.S. College of Engineering, Bengaluru (2024–2028)**
+
+I enjoy building software that connects solid engineering with practical AI. My work spans full-stack applications, machine learning workflows, deep learning, and retrieval-based AI systems. I also spend time solving DSA problems and understanding how scalable systems are designed.
+
+- 💻 Interested in **Software Engineering, Backend Development and Applied AI/ML**
+- 🧠 Studied supervised and unsupervised ML, neural networks, backpropagation, ANN, CNN and RNN/LSTM fundamentals
+- 🏗️ Learning system design: scaling, load balancing, caching, CDNs, replication, rate limiting and distributed-system fundamentals
+- 🔬 Building and improving projects that combine APIs, data, models and user-facing products
+- 🤝 Open to internships, collaborative projects and meaningful open-source contributions
+
+---
+
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇮🇳 HASTKATHA</h3>
+      <p>An AI-enabled ecosystem for Indian traditional crafts. It brings together an artisan-focused marketplace, image-assisted listing generation, ML-based price intelligence and a RAG craft discovery assistant grounded in curated heritage data.</p>
+      <p><sub><b>Stack</b></sub><br/>Next.js · React · FastAPI · PostgreSQL · XGBoost · Sentence Transformers · ChromaDB</p>
+      <a href="https://github.com/Naincy33/HASTKATHA"><b>↗ Source code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ FailSafe-AI</h3>
+      <p>An AI-agent safety and testing project focused on analyzing agent behaviour, ingestion workflows, attack chains and classifier-driven risk assessment.</p>
+      <p><sub><b>Stack</b></sub><br/>Python · FastAPI · AI agents · Classification · Security testing</p>
+      <a href="https://github.com/Naincy33/FAIL_SAFE_AI"><b>↗ Source code</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 SubNexus</h3>
+      <p>A subscription management and revenue intelligence platform with customer, billing and payment workflows, bank reconciliation, analytics and an ML-based churn prediction module.</p>
+      <p><sub><b>Stack</b></sub><br/>FastAPI · Python · React · TypeScript · PostgreSQL · Scikit-learn</p>
+      <a href="https://github.com/mimansa05/SubNexus-hackathon-odoo"><b>↗ Source code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 MeetMind AI</h3>
+      <p>An AI meeting assistant that transcribes audio, creates summaries and action items, and lets users ask questions about meeting content using retrieval-augmented generation.</p>
+      <p><sub><b>Stack</b></sub><br/>Python · Whisper · LangChain · Hugging Face Embeddings · ChromaDB · Mistral AI · Streamlit</p>
+      <a href="https://github.com/Naincy33/MeetMind-AI"><b>↗ Source code</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌨️ Next Word Prediction</h3>
+      <p>An LSTM-based sequence model that predicts likely next words from an input text sequence, with a Streamlit interface and saved model/tokenizer for inference.</p>
+      <p><sub><b>Stack</b></sub><br/>Python · TensorFlow · Keras · LSTM · Streamlit</p>
+      <a href="https://github.com/Naincy33/NEXT_WORD_PREDICTION"><b>↗ Source code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 ForestLens</h3>
+      <p>A project concept for AI-assisted deforestation monitoring using multitemporal satellite imagery, geospatial data and machine learning for environmental risk insights.</p>
+      <p><sub><b>Focus</b></sub><br/>Remote sensing · GeoTIFF · Raster data · Python · Machine Learning</p>
+      <a href="https://github.com/Naincy33"><b>↗ GitHub profile</b></a>
+      <br/><sub>Project repository/demo link can be added when published.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Technologies & tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js&perline=8" alt="Python, Java, C and JavaScript"/>
+
+**Frontend & backend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi&perline=8" alt="HTML, CSS, React, Next.js, Node.js, Express and FastAPI"/>
+
+**Data, ML & databases**
+
+<img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,sklearn,mongodb,postgres,mysql&perline=8" alt="NumPy, PyTorch, TensorFlow, scikit-learn, MongoDB, PostgreSQL and MySQL"/>
+
+**Developer tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&perline=8" alt="Git, GitHub, Docker, VS Code and Linux"/>
+
+</div>
+
+<details>
+  <summary><b>More about my technical foundations</b></summary>
+
+  - **Data science:** NumPy, Pandas, Matplotlib, data cleaning, EDA, feature engineering and model evaluation.
+  - **Machine learning:** supervised learning, unsupervised learning, regression, classification, decision trees, random forests and clustering.
+  - **Deep learning:** perceptron, ANN, forward propagation, backpropagation, activation/loss functions, gradient descent, CNN and RNN/LSTM fundamentals.
+  - **GenAI applications:** prompt engineering, embeddings, vector search, RAG pipelines and AI-agent concepts.
+  - **System design:** vertical/horizontal scaling, load balancers, stateless services, caching, CDN, database replication, rate limiting and API design.
+  - **Core CS & DSA:** arrays, strings, linked lists, stacks, queues, hashing, trees, graphs, heaps, tries, sorting, searching, recursion and dynamic programming.
+</details>
+
+---
+
+## 🏅 Highlights
+
+- 🥈 **Algothon — Runner-up**
+- 🏅 **Code Forge Hackathon — Finalist**
+- 🚀 **Adobe — Advanced to Round 2**
+- 🎓 **IISc Bengaluru — Generative AI Workshop**
+- 💻 Regular DSA practice on [LeetCode](https://leetcode.com/u/Naincy33/)
+
+---
+
+## 📊 GitHub at a glance
+
+<div align="center">
   <a href="https://github.com/Naincy33">
-    <img src="https://img.shields.io/github/followers/Naincy33?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/Naincy33">
-    <img src="https://komarev.com/ghpvc/?username=Naincy33&label=Profile%20Views&style=for-the-badge&color=6C63FF"/>
-  </a>
-  <a href="https://leetcode.com/u/Naincy33/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/naincy-5313551b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 👩🏻‍💻 About Me
-
-🎓 **B.Tech Computer Science Engineering Student** at **B.M.S College of Engineering, Bengaluru (2024–2028)**.
-
-💡 Passionate about **Software Development, Data Structures & Algorithms, Data Science, Machine Learning, and Artificial Intelligence**.
-
-📊 I enjoy working with data, building machine learning models, developing full-stack applications, and solving algorithmic problems.
-
-🚀 Currently strengthening my knowledge in **Deep Learning, LLMs, RAG, AI Agents, System Design, and Open Source** through hands-on projects and continuous learning.
-
----
-
-# 🎯 Current Focus
-
-- 💻 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- 📊 Data Science & Data Analysis
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- ✨ Generative AI & LLMs
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
-- 🏗️ System Design
-- 🌍 Open Source Contributions
-
----
-
-# 🛠️ Tech Stack
-
-## 👩‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=java"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
-  <img src="https://skillicons.dev/icons?i=javascript"/>
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=javascript"/>
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=nextjs"/>
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
-  <img src="https://skillicons.dev/icons?i=express"/>
-  <img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb"/>
-  <img src="https://skillicons.dev/icons?i=postgres"/>
-</p>
-
----
-
-# 📊 Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### Data Science Skills
-
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- Feature Scaling
-- Train-Test Split
-- Model Evaluation
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-
----
-
-# 🤖 Machine Learning
-
-### Supervised Learning
-
-- Linear Regression
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- Random Forest Classifier
-- Classification
-- Regression
-- Model Training
-- Model Evaluation
-
-### Unsupervised Learning
-
-- Clustering
-- Pattern Discovery
-- Feature Representation
-- Unsupervised Learning Workflows
-
-### ML Workflow
-
-```text
-Data
-  ↓
-Data Cleaning
-  ↓
-Exploratory Data Analysis
-  ↓
-Feature Engineering
-  ↓
-Train-Test Split
-  ↓
-Model Training
-  ↓
-Prediction
-  ↓
-Model Evaluation
-```
-
----
-
-# 🧠 Deep Learning
-
-Currently building strong foundations in Deep Learning.
-
-### Core Concepts
-
-- Perceptron
-- Artificial Neural Networks (ANN)
-- Neural Network Architecture
-- Forward Propagation
-- Backpropagation
-- Activation Functions
-- Loss Functions
-- Gradient Descent
-- Optimization Basics
-
-### Computer Vision
-
-- Convolutional Neural Networks (CNN)
-- Convolution
-- Pooling
-- Feature Extraction
-- Image Classification
-
----
-
-# 🤖 AI & LLM Exploration
-
-Currently exploring modern AI systems and LLM application development.
-
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Embeddings
-- Vector Databases
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LLM Application Development
-
----
-
-# 🏗️ System Design
-
-Currently learning system design fundamentals and scalable architecture.
-
-### Core Concepts
-
-- Scalability
-- Vertical Scaling
-- Horizontal Scaling
-- Load Balancing
-- Stateless Architecture
-- Stateful Architecture
-- Caching
-- CDN
-- Database Replication
-- Database Scaling
-- High-Level System Architecture
-- Designing Systems from Zero to Millions of Users
-
----
-
-# 💻 Data Structures & Algorithms
-
-Regularly practicing problem solving and algorithms.
-
-### Topics
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Hashing
-- Trees
-- Graphs
-- Heaps
-- Tries
-- Sorting
-- Searching
-- Recursion
-- Dynamic Programming
-- Union-Find
-
-🔗 **LeetCode:** https://leetcode.com/u/Naincy33/
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Naincy33">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Naincy33&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naincy33&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=B69CFF&icon_color=9B7BFF&text_color=C9D1D9" alt="Naincy's GitHub stats"/>
   </a>
   <a href="https://github.com/Naincy33">
-    <img height="180" src="https://streak-stats.demolab.com?user=Naincy33&theme=radical&hide_border=true&border_radius=10"/>
+    <img height="165" src="https://streak-stats.demolab.com?user=Naincy33&hide_border=true&background=0D1117&ring=B69CFF&fire=FFB86B&currStreakLabel=B69CFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
   </a>
-</p>
+</div>
 
-## 📊 Most Used Languages
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy33&layout=compact&hide_border=true&bg_color=0D1117&title_color=B69CFF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naincy33&bg_color=0D1117&color=C9D1D9&line=9B7BFF&point=FFB86B&area=true&hide_border=true" alt="GitHub contribution activity"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naincy33&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
-## 📅 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naincy33&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naincy33&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4" />
-</p>
-
-## 💻 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/Naincy33/">
-    <img src="https://leetcard.jacoblin.cool/Naincy33?theme=dark&font=Poppins&ext=contest" alt="Naincy's LeetCode Stats" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naincy33&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+</div>
 
 ---
 
-# 📚 Currently Learning
+## 🐍 Contribution graph
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-007ACC?style=for-the-badge"/>
-</p>
-
----
-
-# 🌱 Open Source
-
-I'm interested in contributing to open-source projects, collaborating with developers, learning from real-world codebases, and improving my software engineering practices through community-driven development.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naincy33/Naincy33/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naincy33/Naincy33/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Naincy33/Naincy33/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+## 🌱 Currently exploring
 
-- 🚀 Strengthen DSA & problem solving
-- 🤖 Build end-to-end Machine Learning projects
-- 🧠 Deepen Deep Learning fundamentals
-- ✨ Build practical AI & LLM applications
-- 🔎 Explore RAG and AI Agents
-- 🌍 Contribute consistently to Open Source
-- 🏗️ Improve System Design fundamentals
-- 🌐 Build and deploy scalable applications
+- System design and backend architecture
+- Deep learning and sequence models
+- RAG quality, retrieval strategies and evaluation
+- AI agents, tool use and safe execution
+- Building reliable, testable and deployable ML-powered applications
 
----
+## 🤝 Let's connect
 
-# 🌐 Connect With Me
+<div align="center">
+  <a href="https://github.com/Naincy33">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/naincy-5313551b3/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/Naincy33/">LeetCode</a> ·
+  <a href="mailto:iamnaincy33@gmail.com">Email</a>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Naincy33">
-    <img src="https://img.shields.io/badge/GitHub-Naincy33-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/naincy-5313551b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Naincy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Naincy33/">
-    <img src="https://img.shields.io/badge/LeetCode-Naincy33-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="mailto:iamnaincy33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iamnaincy33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naincy33&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-</p>
-
----
-
-# 💡 Developer Mindset
-
-```python
-while True:
-    learn()
-    build()
-    solve()
-    improve()
-```
-
-<p align="center">
-✨ Learn • Build • Contribute • Grow 🚀
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8A2BE2&height=120&section=footer" />
-</p>
-</invoke>
-
+<div align="center">
+  <br/>
+  <i>Learn deeply. Build thoughtfully. Keep improving. ✨</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30205C,50:6D4BC3,100:B69CFF&height=110&section=footer" width="100%" alt="Purple gradient footer"/>
+</div>
