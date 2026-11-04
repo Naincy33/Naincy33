@@ -171,6 +171,23 @@ These are active learning areas; I'm continuing to study, experiment and build s
   <img src="https://github-profile-trophy.vercel.app/?username=Naincy33&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
 </div>
 
+
+---
+
+## 🧩 LeetCode stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/Naincy33/">
+    <img src="https://leetcard.jacoblin.cool/Naincy33?theme=dark&font=Baloo_2&border=0&radius=12" alt="Live LeetCode statistics for Naincy" width="500"/>
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/Naincy33/">
+    <img src="https://leetcard.jacoblin.cool/Naincy33?theme=dark&font=Baloo_2&ext=heatmap&border=0&radius=12" alt="LeetCode activity heatmap for the past 52 weeks" width="500"/>
+  </a>
+  <br/>
+  <sub>Live stats and the rolling 52-week activity heatmap · <a href="https://leetcode.com/u/Naincy33/">View LeetCode profile</a></sub>
+</div>
+
 ---
 
 ## 🐍 Contribution graph
